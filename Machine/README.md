@@ -1,6 +1,6 @@
 # The Difference Between ProDesk G5 and G6
 
-![The Difference Between ProDesk G5 and G6](Pictures/41410489.jpg)
+![The Difference Between ProDesk G5 and G6](Pictures/Difference.jpg)
 
 I own both the ProDesk 400 G5 and G6 and can verify that they come with the same motherboard. The G5 launched with the 8th gen cpus but received an update, 
 and I was able to swap a 9th gen core i3 from my G6 machine into my G5 machine and vice versa. The only visible difference between the 2 devices is that the G5 only
@@ -15,4 +15,4 @@ I installed 16GB of DDR4 memory. Bandwith is capped at 2133.
 
 I installed a 512GB NVMe SSD.
 
-![Upgrades](Pictures/IMG-1025.jpg)
+![Upgrades](Pictures/Upgrades.jpg)
