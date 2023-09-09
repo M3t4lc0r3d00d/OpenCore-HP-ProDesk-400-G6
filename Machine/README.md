@@ -10,6 +10,9 @@ has DisplayPort connectors, whereas the G6 has a HDMI port, making it a little m
 
 You can easily install or swap a 9th gen cpu up to the Core i9-9900.
 I am currently running an i5 8500, an upgrade to the original i3 9100.
+
 I installed 16GB of DDR4 memory. Bandwith is capped at 2133.
+
+I installed a 512GB NVMe SSD.
 
 ![Upgrades](Pictures/IMG-1025.jpg)
