@@ -1,5 +1,4 @@
 # HP-ProDesk-400-G6
-
 ![Front](Machine/Pictures/front.png)
 
 ![About](Machine/Pictures/iMac.png)
